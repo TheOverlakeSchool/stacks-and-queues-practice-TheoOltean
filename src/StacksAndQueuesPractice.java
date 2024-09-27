@@ -44,6 +44,7 @@ public class StacksAndQueuesPractice {
             q.add(value);
         }
 
+
 //  Infinite Loop
 //        while (!q.isEmpty()) {
 //            int value = q.remove();
