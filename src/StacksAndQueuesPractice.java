@@ -71,7 +71,7 @@ public class StacksAndQueuesPractice {
             q.add(temp.pop());
         }
     }
-
+//completed
     public static void mirror(Stack<String> q) {
         Queue<String> temp = new LinkedList<>();
         Stack<String> temp2 = new Stack<>();
